@@ -1,3 +1,4 @@
+ HEAD
 # Python - Masterclass
 
 This repository contains codebase of a Masterclass for learning the basics of Python programming required for DevOps. 
@@ -38,3 +39,6 @@ This repository is licensed under the MIT license. See the [LICENSE](https://git
 
 This Masterclass is inspired by various Python resources and tutorials available online. Special thanks to the Python Software Foundation and the Python community for their contributions to the development of the Python language and its ecosystem.
 
+
+# Python-Practics-workshop
+0df019ce1a3c876c8e04fa1b6397e355de910166
